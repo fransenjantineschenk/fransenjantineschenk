@@ -3,7 +3,7 @@ html {
   background: white;
 }
 
-.intro {
+.text {
   margin: 0.5rem;
 }
 
@@ -35,6 +35,7 @@ img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   background-color: white;
+  border-radius: 0.25em;
   object-fit: cover;
 }
 
